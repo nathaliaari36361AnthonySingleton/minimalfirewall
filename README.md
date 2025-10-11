@@ -134,3 +134,5 @@ Contributions are welcome! Please submit an issue, a discussion, or a pull reque
 ## License
 
 Minimal Firewall is licensed under the GNU Affero General Public License v3 (AGPL v3). For commercial or proprietary licensing, please contact me.
+
+<!-- Auto-update: 2025-10-11T11:19:58.411826 -->
